@@ -57,4 +57,4 @@ Proyek ini dilisensikan di bawah [Nama Lisensi]. Anda dapat melihat lisensi leng
 
 ## Kontak
 
-Untuk informasi lebih lanjut, hubungi [Gusti Muhammad Daffa Abdillahsyah] di [daffaabdillahsyah49@gmail.com].
+Untuk informasi lebih lanjut, hubungi Gusti Muhammad Daffa Abdillahsyah di [daffaabdillahsyah49@gmail.com].
